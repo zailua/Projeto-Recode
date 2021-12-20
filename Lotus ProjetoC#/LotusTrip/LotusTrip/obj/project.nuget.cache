@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jjuFe43w6+pjwRvkrbzYR3b6Zzd1UqEoT4DrmhQJYQZfGy7LUCE4U19nUyttk8usBEkQJVVPSfCnVJQza9JQnA==",
+  "dgSpecHash": "tqYyR6lqbu38bcf1b61tornlQ1/hJ1xDyA3mo3NrBfs1Y0kKeQw14aosQ9YTWc85+oolJwe9N8lycmDLXSsUow==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\ProjetoRecode\\Lotus ProjetoC#\\LotusTrip\\LotusTrip\\LotusTrip.csproj",
+  "projectFilePath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\ProjetoRecode\\Projeto-Recode-Agora-Foi\\Lotus ProjetoC#\\LotusTrip\\LotusTrip\\LotusTrip.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gabri\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\gabri\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",

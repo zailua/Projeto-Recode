@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\ProjetoRecode\\Lotus ProjetoC#\\LotusTrip\\LotusTrip\\LotusTrip.csproj": {}
+    "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\ProjetoRecode\\Projeto-Recode-Agora-Foi\\Lotus ProjetoC#\\LotusTrip\\LotusTrip\\LotusTrip.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\ProjetoRecode\\Lotus ProjetoC#\\LotusTrip\\LotusTrip\\LotusTrip.csproj": {
+    "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\ProjetoRecode\\Projeto-Recode-Agora-Foi\\Lotus ProjetoC#\\LotusTrip\\LotusTrip\\LotusTrip.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\ProjetoRecode\\Lotus ProjetoC#\\LotusTrip\\LotusTrip\\LotusTrip.csproj",
+        "projectUniqueName": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\ProjetoRecode\\Projeto-Recode-Agora-Foi\\Lotus ProjetoC#\\LotusTrip\\LotusTrip\\LotusTrip.csproj",
         "projectName": "LotusTrip",
-        "projectPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\ProjetoRecode\\Lotus ProjetoC#\\LotusTrip\\LotusTrip\\LotusTrip.csproj",
+        "projectPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\ProjetoRecode\\Projeto-Recode-Agora-Foi\\Lotus ProjetoC#\\LotusTrip\\LotusTrip\\LotusTrip.csproj",
         "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\ProjetoRecode\\Lotus ProjetoC#\\LotusTrip\\LotusTrip\\obj\\",
+        "outputPath": "C:\\Users\\gabri\\OneDrive\\Área de Trabalho\\ProjetoRecode\\Projeto-Recode-Agora-Foi\\Lotus ProjetoC#\\LotusTrip\\LotusTrip\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
