@@ -1,0 +1,33 @@
+﻿@model LotusTrip.Models.Promocao
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1 class="text-danger">DELETAR</h1>
+
+<h3 >Realmente deseja DELETAR esse dado?</h3>
+<div>
+    <h4>Promocão</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            Nome da Promoção
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.NomePromocao)
+        </dd>
+        <dt class = "col-sm-2">
+            Valor de Desconto
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.ValorDesconto)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <input type="submit" value="Deletar" class="btn btn-outline-danger" /> |
+        <a asp-action="Index" class="btn btn-outline-light">Voltar</a>
+    </form>
+</div>
